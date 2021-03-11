@@ -6,4 +6,4 @@
 - yaml2json
 
 ### Misc
-- jwtdecoder - decode clipboard JWT body into readable JSON format. Then open its content in text editor
+- jwtdecoder - decode clipboard content as JWT readable JSON string. Then open its content in text editor
